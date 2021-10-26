@@ -38,6 +38,6 @@
 > **When you are done please ensure to remove the Realm of Terror map from your stash and/or inventory to avoid corrupting your characters.**
 
 ![Realm of Terror Screenshot](https://github.com/B0rq/realm-of-terror/blob/main/map-entrance.png?raw=true "Map Entrance")
-_This map (Realm of Terror) was designed by Borq and made for Project Diablo 2 (PD2). I do not work for PD2 nor do I collect a wage. I am a fan of the private server and wish to add to it, nothing more and nothing less._
+_This map (Realm of Terror) was designed by Borq and made for Project Diablo 2 (PD2). I do not work for PD2 nor do I collect a wage. I am a fan of the private server and wish there was more content. So, why not create some. Making maps is easy if I can do it so can you._
 
 See me building maps in action or suggest an idea on [My Twitch](https://www.twitch.tv/b0rq) or locate me in the Pd2 Discord in the `#map-editing-chat`.
