@@ -1,5 +1,5 @@
 ## Pd2 Season 4 Map Submission
-> Realm of Terror (Suggested T3/**T4**)
+> Realm of Terror (Suggested **T4**)
 
 ### Setup Environment
 > Estimated Setup Time: 1 minute
